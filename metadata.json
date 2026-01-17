@@ -1,0 +1,7 @@
+{
+  "name": "EcoKoin Sembako",
+  "description": "Transform waste into groceries with a modern, secure community-based waste management system featuring OCR scale validation and secure QR redemption.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
